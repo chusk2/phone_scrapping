@@ -1,0 +1,164 @@
+country_name,preffix
+" New Jersey, USA",+1-609
+" District of Columbia, USA",+1-202
+" Connecticut, USA",+1-203
+" Manitoba, USA",+1-431
+" Alabama, USA",+1-334
+" Washington, USA",+1-509
+" Maine, USA",+1-207
+" Idaho, USA",+1-208
+" California, USA",+1-562
+" Texas, USA",+1-806
+" New York, USA",+1-718
+" Pennsylvania, USA",+1-814
+" Ohio, USA",+1-614
+" Illinois, USA",+1-309
+" Minnesota, USA",+1-651
+" Indiana, USA",+1-317
+" Ohio (overlay with 330 and 234), USA",+1-220
+" Illinois (overlay with 847), USA",+1-224
+" Louisiana, USA",+1-985
+" Ontario, USA",+1-807
+" Mississippi, USA",+1-662
+" Georgia, USA",+1-404
+" Michigan, USA",+1-616
+" Ohio (overlay with 330 and 220), USA",+1-234
+" British Columbia, USA",+1-604
+" Florida, USA",+1-863
+" Maryland (overlay with 301), USA",+1-240
+" Michigan (overlay with 947), USA",+1-248
+" North Carolina, USA",+1-828
+" Wisconsin, USA",+1-608
+" Anguilla, USA",+1-264
+" Pennsylvania (overlay with 215), USA",+1-267
+" Antigua and Barbuda, USA",+1-268
+" Kentucky, USA",+1-606
+" Pennsylvania (overlay with 570), USA",+1-445
+" Virginia, USA",+1-804
+" Michigan (overlay with 906), USA",+1-278
+" California (overlay with 916 and 530), USA",+1-279
+" Ohio (overlay with 740), USA",+1-380
+" British Virgin Islands, USA",+1-284
+" Maryland (overlay with 240), USA",+1-301
+" Delaware, USA",+1-302
+" Colorado, USA",+1-719
+" West Virginia, USA",+1-304
+" Saskatchewan, USA",+1-639
+" Wyoming, USA",+1-307
+" Nebraska, USA",+1-402
+" Missouri, USA",+1-314
+" Kansas, USA",+1-785
+" Iowa, USA",+1-712
+" Ohio (overlay with 937), USA",+1-326
+" Ohio (overlay with 220 and 234), USA",+1-330
+" Illinois (overlay with 630), USA",+1-331
+" New York (overlay with 212, USA",+1-646
+" Massachusetts (overlay with 781 and 857), USA",+1-339
+" U.S. Virgin Islands, USA",+1-340
+" California (overlay with 510), USA",+1-341
+" Cayman Islands, USA",+1-345
+" Texas (overlay with 281, USA",+1-346
+" New York (overlay with 718, USA",+1-347
+" Massachusetts (overlay with 978 and 774), USA",+1-351
+" Kentucky (overlay with 270), USA",+1-364
+" Utah (overlay with 801), USA",+1-385
+" Rhode Island, USA",+1-401
+" Alberta, USA",+1-825
+" Oklahoma, USA",+1-580
+" Montana, USA",+1-406
+" Maryland, USA",+1-410
+" Massachusetts, USA",+1-617
+" Quebec, USA",+1-819
+" Tennessee, USA",+1-731
+" Texas (overlay with 903), USA",+1-430
+" Utah, USA",+1-801
+" Bermuda, USA",+1-441
+" California (overlay with 760), USA",+1-448
+" Maryland (overlay with 667), USA",+1-443
+" Oregon, USA",+1-541
+" Indiana (overlay with 219), USA",+1-463
+" Texas (overlay with 214, USA",+1-469
+" Georgia (overlay with 404 and 678), USA",+1-470
+" Grenada, USA",+1-473
+" Connecticut (overlay with 203), USA",+1-475
+" Arkansas, USA",+1-501
+" Arizona, USA",+1-623
+" Pennsylvania (overlay with 610), USA",+1-484
+" New Mexico, USA",+1-575
+" New Brunswick, USA",+1-506
+" California (overlay with 341), USA",+1-510
+" Nebraska (overlay with 402), USA",+1-531
+" Wisconsin (overlay with 715 and 920), USA",+1-534
+" Oklahoma (overlay with 918), USA",+1-539
+" New Jersey (overlay with 201, USA",+1-551
+" Missouri (overlay with 314, USA",+1-660
+" Minnesota (overlay with 218), USA",+1-564
+" Ohio (overlay with 419), USA",+1-567
+" Pennsylvania (overlay with 272 and 445), USA",+1-570
+" Virginia (overlay with 703), USA",+1-571
+" Indiana (overlay with 260), USA",+1-574
+" New York (overlay with 716), USA",+1-585
+" Michigan (overlay with 248 and 810), USA",+1-586
+" New Hampshire, USA",+1-603
+" South Dakota, USA",+1-605
+" Pennsylvania (overlay with 484), USA",+1-610
+" California (overlay with 415), USA",+1-628
+" Tennessee (overlay with 615), USA",+1-629
+" Illinois (overlay with 331), USA",+1-630
+" Turks and Caicos Islands, USA",+1-649
+" California (overlay with 714), USA",+1-657
+" Montserrat, USA",+1-664
+" Maryland (overlay with 443), USA",+1-667
+" Northern Mariana Islands, USA",+1-670
+" Country Name, USA",Country-Code
+" Guam, USA",+1-671
+" Palau, USA",+1-680
+" West Virginia (overlay with 304), USA",+1-681
+" Texas (overlay with 817), USA",+1-682
+" American Samoa, USA",+1-684
+" North Dakota, USA",+1-701
+" Nevada, USA",+1-775
+" Virginia (overlay with 571), USA",+1-703
+" California (overlay with 657), USA",+1-714
+" Wisconsin (overlay with 534 and 920), USA",+1-715
+" New York (overlay with 585), USA",+1-716
+" Colorado (overlay with 303 and 970), USA",+1-720
+" Sint Maarten, USA",+1-721
+" Pennsylvania (overlay with 878), USA",+1-724
+" Nevada (overlay with 702), USA",+1-725
+" New Jersey (overlay with 848), USA",+1-732
+" Texas (overlay with 512), USA",+1-737
+" Ohio (overlay with 220), USA",+1-740
+" California (overlay with 818), USA",+1-747
+" Florida (overlay with 954), USA",+1-754
+" Saint Lucia, USA",+1-758
+" Georgia (overlay with 706), USA",+1-762
+" Minnesota (overlay with 952), USA",+1-763
+" Indiana (overlay with 326), USA",+1-765
+" Dominica, USA",+1-767
+" Mississippi (overlay with 601), USA",+1-769
+" Illinois (overlay with 872), USA",+1-773
+" Massachusetts (overlay with 508 and 774), USA",+1-774
+" Illinois (overlay with 815), USA",+1-779
+" Massachusetts (overlay with 339 and 857), USA",+1-781
+" Saint Vincent and the Grenadines, USA",+1-784
+" Florida (overlay with 305), USA",+1-786
+" Puerto Rico, USA",+1-787
+" Toll-Free, USA",+1-800
+" Vermont, USA",+1-802
+" South Carolina, USA",+1-803
+" Hawaii, USA",+1-808
+" Dominican Republic, USA",+1-809
+" Michigan (overlay with 586 and 248), USA",+1-810
+" Indiana (overlay with 930), USA",+1-812
+" Illinois (overlay with 779), USA",+1-815
+" Texas (overlay with 682), USA",+1-817
+" California (overlay with 747), USA",+1-818
+" Quebec / New York State, USA",+1-613
+" Toronto / Ontario / New York State, USA",+1-647
+" Chicago / Illinois, USA",+1-312
+" Toronto / Ontario, USA",+1-437
+" Unassigned, USA",+1-672
+"Quebec / New York State, USA",+1-514
+"Toronto / Ontario / New York State, USA",+1-416
+"California, USA",+1-945

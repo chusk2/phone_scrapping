@@ -1,0 +1,322 @@
++1 201, New Jersey
++1 202, District of Columbia
++1 203, Connecticut
++1 204, Manitoba, Canada (overlay with 431 and 873)
++1 205, Alabama
++1 206, Washington
++1 207, Maine
++1 208, Idaho
++1 209, California
++1 210, Texas
++1 212, New York
++1 213, California
++1 214, Texas
++1 215, Pennsylvania
++1 216, Ohio
++1 217, Illinois
++1 218, Minnesota
++1 219, Indiana
++1 220, Ohio (overlay with 330 and 234)
++1 224, Illinois (overlay with 847)
++1 225, Louisiana
++1 226, Ontario, Canada (overlay with 519)
++1 228, Mississippi
++1 229, Georgia
++1 231, Michigan
++1 234, Ohio (overlay with 330 and 220)
++1 236, British Columbia, Canada (overlay with 778 and 604)
++1 239, Florida
++1 240, Maryland (overlay with 301)
++1 248, Michigan (overlay with 947)
++1 249, Ontario, Canada (overlay with 705)
++1 250, British Columbia, Canada
++1 251, Alabama
++1 252, North Carolina
++1 253, Washington
++1 254, Texas
++1 256, Alabama
++1 260, Indiana
++1 262, Wisconsin
++1 264, Anguilla
++1 267, Pennsylvania (overlay with 215)
++1 268, Antigua and Barbuda
++1 269, Michigan
++1 270, Kentucky
++1 272, Pennsylvania (overlay with 570)
++1 276, Virginia
++1 278, Michigan (overlay with 906)
++1 279, California (overlay with 916 and 530)
++1 281, Texas
++1 283, Ohio (overlay with 740)
++1 284, British Virgin Islands
++1 289, Ontario, Canada (overlay with 365 and 905)
++1 301, Maryland (overlay with 240)
++1 302, Delaware
++1 303, Colorado
++1 304, West Virginia
++1 305, Florida
++1 306, Saskatchewan, Canada
++1 307, Wyoming
++1 308, Nebraska
++1 309, Illinois
++1 310, California
++1 312, Illinois
++1 313, Michigan
++1 314, Missouri
++1 315, New York
++1 316, Kansas
++1 317, Indiana
++1 318, Louisiana
++1 319, Iowa
++1 320, Minnesota
++1 321, Florida
++1 323, California
++1 325, Texas
++1 326, Ohio (overlay with 937)
++1 330, Ohio (overlay with 220 and 234)
++1 331, Illinois (overlay with 630)
++1 332, New York (overlay with 212, 646, and 917)
++1 334, Alabama
++1 336, North Carolina
++1 337, Louisiana
++1 339, Massachusetts (overlay with 781 and 857)
++1 340, U.S. Virgin Islands
++1 341, California (overlay with 510)
++1 343, Ontario, Canada (overlay with 613 and 819)
++1 345, Cayman Islands
++1 346, Texas (overlay with 281, 713, and 832)
++1 347, New York (overlay with 718, 917, and 929)
++1 351, Massachusetts (overlay with 978 and 774)
++1 352, Florida
++1 360, Washington
++1 361, Texas
++1 364, Kentucky (overlay with 270)
++1 365, Ontario, Canada (overlay with 289 and 905)
++1 380, Ohio (overlay with 740)
++1 385, Utah (overlay with 801)
++1 386, Florida
++1 401, Rhode Island
++1 402, Nebraska
++1 403, Alberta, Canada
++1 404, Georgia
++1 405, Oklahoma
++1 406, Montana
++1 407, Florida
++1 408, California
++1 409, Texas
++1 410, Maryland
++1 412, Pennsylvania
++1 413, Massachusetts
++1 414, Wisconsin
++1 415, California
++1 416, Ontario, Canada
++1 417, Missouri
++1 418, Quebec, Canada
++1 419, Ohio
++1 423, Tennessee
++1 424, California
++1 425, Washington
++1 430, Texas (overlay with 903)
++1 431, Manitoba, Canada (overlay with 204 and 873)
++1 432, Texas
++1 434, Virginia
++1 435, Utah
++1 437, Ontario, Canada (overlay with 647 and 416)
++1 438, Quebec, Canada (overlay with 514 and 450)
++1 440, Ohio
++1 441, Bermuda
++1 442, California (overlay with 760)
++1 443, Maryland (overlay with 667)
++1 445, Pennsylvania (overlay with 570)
++1 447, Illinois
++1 448, California (overlay with 760)
++1 450, Quebec, Canada (overlay with 514 and 438)
++1 458, Oregon
++1 463, Indiana (overlay with 219)
++1 464, Illinois
++1 469, Texas (overlay with 214, 972, and 817)
++1 470, Georgia (overlay with 404 and 678)
++1 473, Grenada
++1 475, Connecticut (overlay with 203)
++1 478, Georgia
++1 479, Arkansas
++1 480, Arizona
++1 484, Pennsylvania (overlay with 610)
++1 501, Arkansas
++1 502, Kentucky
++1 503, Oregon
++1 504, Louisiana
++1 505, New Mexico
++1 506, New Brunswick, Canada
++1 507, Minnesota
++1 508, Massachusetts
++1 509, Washington
++1 510, California (overlay with 341)
++1 512, Texas
++1 513, Ohio
++1 514, Quebec, Canada (overlay with 438 and 450)
++1 515, Iowa
++1 516, New York
++1 517, Michigan
++1 518, New York
++1 519, Ontario, Canada
++1 520, Arizona
++1 530, California
++1 531, Nebraska (overlay with 402)
++1 534, Wisconsin (overlay with 715 and 920)
++1 539, Oklahoma (overlay with 918)
++1 540, Virginia
++1 541, Oregon
++1 551, New Jersey (overlay with 201, 973, and 862)
++1 557, Missouri (overlay with 314, 573, 636, and 660)
++1 559, California
++1 561, Florida
++1 562, California
++1 563, Iowa
++1 564, Minnesota (overlay with 218)
++1 567, Ohio (overlay with 419)
++1 570, Pennsylvania (overlay with 272 and 445)
++1 571, Virginia (overlay with 703)
++1 573, Missouri (overlay with 314, 557, 636, and 660)
++1 574, Indiana (overlay with 260)
++1 575, New Mexico
++1 579, Quebec, Canada (overlay with 450 and 514)
++1 580, Oklahoma
++1 581, Quebec, Canada (overlay with 418 and 438)
++1 585, New York (overlay with 716)
++1 586, Michigan (overlay with 248 and 810)
++1 587, Alberta, Canada (overlay with 403)
++1 601, Mississippi
++1 602, Arizona
++1 603, New Hampshire
++1 604, British Columbia, Canada
++1 605, South Dakota
++1 606, Kentucky
++1 607, New York
++1 608, Wisconsin
++1 609, New Jersey
++1 610, Pennsylvania (overlay with 484)
++1 612, Minnesota
++1 613, Ontario, Canada (overlay with 343 and 819)
++1 614, Ohio
++1 615, Tennessee
++1 616, Michigan
++1 617, Massachusetts
++1 618, Illinois
++1 619, California
++1 620, Kansas
++1 623, Arizona
++1 626, California
++1 628, California (overlay with 415)
++1 629, Tennessee (overlay with 615)
++1 630, Illinois (overlay with 331)
++1 631, New York
++1 636, Missouri (overlay with 314, 557, 573, and 660)
++1 639, Saskatchewan, Canada (overlay with 306)
++1 641, Iowa
++1 646, New York (overlay with 212, 332, 917, and 332)
++1 647, Ontario, Canada (overlay with 437 and 416)
++1 649, Turks and Caicos Islands
++1 650, California
++1 651, Minnesota
++1 657, California (overlay with 714)
++1 660, Missouri (overlay with 314, 557, 573, and 636)
++1 661, California
++1 662, Mississippi
++1 664, Montserrat
++1 667, Maryland (overlay with 443)
++1 669, Northern Mariana Islands
+Country Code, Country Name
++1 670, Northern Mariana Islands
++1 671, Guam
++1 678, Georgia
++1 680, Palau
++1 681, West Virginia (overlay with 304)
++1 682, Texas (overlay with 817)
++1 684, American Samoa
++1 701, North Dakota
++1 702, Nevada
++1 703, Virginia (overlay with 571)
++1 704, North Carolina
++1 706, Georgia
++1 707, California
++1 708, Illinois
++1 712, Iowa
++1 713, Texas
++1 714, California (overlay with 657)
++1 715, Wisconsin (overlay with 534 and 920)
++1 716, New York (overlay with 585)
++1 717, Pennsylvania
++1 718, New York
++1 719, Colorado
++1 720, Colorado (overlay with 303 and 970)
++1 721, Sint Maarten
++1 724, Pennsylvania (overlay with 878)
++1 725, Nevada (overlay with 702)
++1 727, Florida
++1 731, Tennessee
++1 732, New Jersey (overlay with 848)
++1 734, Michigan
++1 737, Texas (overlay with 512)
++1 740, Ohio (overlay with 220)
++1 747, California (overlay with 818)
++1 754, Florida (overlay with 954)
++1 757, Virginia
++1 758, Saint Lucia
++1 760, California
++1 762, Georgia (overlay with 706)
++1 763, Minnesota (overlay with 952)
++1 765, Indiana (overlay with 326)
++1 767, Dominica
++1 769, Mississippi (overlay with 601)
++1 770, Georgia
++1 772, Florida
++1 773, Illinois (overlay with 872)
++1 774, Massachusetts (overlay with 508 and 774)
++1 775, Nevada
++1 779, Illinois (overlay with 815)
++1 780, Alberta, Canada (overlay with 587 and 825)
++1 781, Massachusetts (overlay with 339 and 857)
++1 784, Saint Vincent and the Grenadines
++1 785, Kansas
++1 786, Florida (overlay with 305)
++1 787, Puerto Rico
++1 800, Toll-Free
++1 801, Utah
++1 802, Vermont
++1 803, South Carolina
++1 804, Virginia
++1 805, California
++1 806, Texas
++1 807, Ontario, Canada
++1 808, Hawaii
++1 809, Dominican Republic
++1 810, Michigan (overlay with 586 and 248)
++1 812, Indiana (overlay with 930)
++1 813, Florida
++1 814, Pennsylvania
++1 815, Illinois (overlay with 779)
++1 816, Missouri
++1 817, Texas (overlay with 682)
++1 818, California (overlay with 747)
++1 819, Quebec, Canada (overlay with 613 and 343)
++1 825, Alberta, Canada (overlay with 587 and 780)
++1 828, North Carolina
++1-514, Quebec / New York State
++1-416, Toronto / Ontario / New York State
++1-616, Michigan
++1-309, Illinois
++1-312, Chicago / Illinois
++1-613, Quebec / New York State
++1-404, Georgia
++1-314, Missouri
++1-437, Toronto / Ontario
++1-985, Louisiana
++1-647, Toronto / Ontario / New York State
++1-945, California
++1-863, Florida
++1-672, Unassigned
++1-562, California
++1-514,Quebec / New York State
++1-416,Toronto / Ontario / New York State
++1-945,California
